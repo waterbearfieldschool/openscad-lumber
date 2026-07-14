@@ -220,10 +220,12 @@ module base_assembly() {
 
 module bench(explode = EXPLODE) {
     base_assembly();
+    /*
     // top centered over the frame
     translate([(FRAME_LEN - TOP_LEN)/2, (FRAME_WID - TOP_WID)/2,
                LEG_H + explode])
         top_assembly();
+    */
 }
 
 bench();

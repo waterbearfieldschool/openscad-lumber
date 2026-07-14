@@ -10,8 +10,8 @@
 // the overrides reference must already exist by then.
 
 // ---- seat options ----
-SEAT_STOCK = "2x8";   // "2x4", "2x6", "2x8" or "2x12"
-SEAT_GAP   = 0.5;     // gap between seat boards
+SEAT_STOCK = "2x4";   // "2x4", "2x6", "2x8" or "2x12"
+SEAT_GAP   = 0.1;     // gap between seat boards
 TARGET_WID = 20;      // aim the seat width here
 
 // actual widths of 2x dimensional lumber (all 1.5" thick)

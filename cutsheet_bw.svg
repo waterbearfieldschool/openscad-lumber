@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="848" height="812" viewBox="0 0 848 812" font-family="sans-serif">
+<rect width="848" height="812" fill="white"/>
+<defs>
+  <marker id="arrL" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto">
+    <path d="M10,0 L1,4 L10,8 z" fill="#000000"/>
+  </marker>
+  <marker id="arrR" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto">
+    <path d="M0,0 L9,4 L0,8 z" fill="#000000"/>
+  </marker>
+  <pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse"
+           patternTransform="rotate(45)">
+    <line x1="0" y1="0" x2="0" y2="7" stroke="#000000" stroke-width="1"/>
+  </pattern>
+</defs>
+<text x="50" y="30" font-size="20" fill="#000000" font-weight="bold">Bench cut sheet — six 8′ 2x4s</text>
+<text x="50" y="50" font-size="12" fill="#000000">lengths are nominal — saw kerf (≈1/8″ per cut) not included</text>
+<line x1="50" y1="128" x2="818" y2="128" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="434.0" y="142" font-size="12" fill="#000000" text-anchor="middle">96″  (8 ft)</text>
+<line x1="50" y1="122" x2="50" y2="142" stroke="#000000" stroke-width="0.8"/>
+<line x1="818" y1="122" x2="818" y2="142" stroke="#000000" stroke-width="0.8"/>
+<text x="50" y="114" font-size="16" fill="#000000" font-weight="bold">Frame</text>
+<line x1="109" y1="109" x2="818" y2="109" stroke="#000000" stroke-width="1"/>
+<text x="50" y="162" font-size="13" fill="#000000" font-weight="bold">Board 1</text>
+<rect x="50" y="170" width="288" height="28.0" fill="white" stroke="#000000" stroke-width="1.5"/>
+<text x="194.0" y="188.0" font-size="12" fill="#000000" text-anchor="middle">long apron rail</text>
+<line x1="50" y1="214.0" x2="338" y2="214.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="194.0" y="228.0" font-size="12" fill="#000000" text-anchor="middle">36″</text>
+<line x1="50" y1="200.0" x2="50" y2="218.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="338" y1="200.0" x2="338" y2="218.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="338" y1="167" x2="338" y2="201.0" stroke="#000000" stroke-width="3"/>
+<rect x="338" y="170" width="288" height="28.0" fill="white" stroke="#000000" stroke-width="1.5"/>
+<text x="482.0" y="188.0" font-size="12" fill="#000000" text-anchor="middle">long apron rail</text>
+<line x1="338" y1="214.0" x2="626" y2="214.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="482.0" y="228.0" font-size="12" fill="#000000" text-anchor="middle">36″</text>
+<line x1="338" y1="200.0" x2="338" y2="218.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="626" y1="200.0" x2="626" y2="218.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="626" y1="167" x2="626" y2="201.0" stroke="#000000" stroke-width="3"/>
+<rect x="626" y="170" width="136" height="28.0" fill="white" stroke="#000000" stroke-width="1.5"/>
+<text x="694.0" y="188.0" font-size="12" fill="#000000" text-anchor="middle">end rail</text>
+<line x1="626" y1="214.0" x2="762" y2="214.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="694.0" y="228.0" font-size="12" fill="#000000" text-anchor="middle">17″</text>
+<line x1="626" y1="200.0" x2="626" y2="218.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="762" y1="200.0" x2="762" y2="218.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="762" y1="167" x2="762" y2="201.0" stroke="#000000" stroke-width="3"/>
+<rect x="762" y="170" width="56" height="28.0" fill="url(#hatch)" stroke="#000000" stroke-width="1.5"/>
+<rect x="770.0" y="176.0" width="40" height="16" fill="white"/>
+<text x="790.0" y="188.0" font-size="12" fill="#000000" text-anchor="middle" font-style="italic">scrap</text>
+<line x1="762" y1="214.0" x2="818" y2="214.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="790.0" y="228.0" font-size="12" fill="#000000" text-anchor="middle">7″</text>
+<line x1="762" y1="200.0" x2="762" y2="218.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="818" y1="200.0" x2="818" y2="218.0" stroke="#000000" stroke-width="0.8"/>
+<text x="50" y="262" font-size="13" fill="#000000" font-weight="bold">Board 2</text>
+<rect x="50" y="270" width="240" height="28.0" fill="white" stroke="#000000" stroke-width="1.5"/>
+<text x="170.0" y="288.0" font-size="12" fill="#000000" text-anchor="middle">bottom rail</text>
+<line x1="50" y1="314.0" x2="290" y2="314.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="170.0" y="328.0" font-size="12" fill="#000000" text-anchor="middle">30″</text>
+<line x1="50" y1="300.0" x2="50" y2="318.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="290" y1="300.0" x2="290" y2="318.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="290" y1="267" x2="290" y2="301.0" stroke="#000000" stroke-width="3"/>
+<rect x="290" y="270" width="136" height="28.0" fill="white" stroke="#000000" stroke-width="1.5"/>
+<text x="358.0" y="288.0" font-size="12" fill="#000000" text-anchor="middle">end rail</text>
+<line x1="290" y1="314.0" x2="426" y2="314.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="358.0" y="328.0" font-size="12" fill="#000000" text-anchor="middle">17″</text>
+<line x1="290" y1="300.0" x2="290" y2="318.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="426" y1="300.0" x2="426" y2="318.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="426" y1="267" x2="426" y2="301.0" stroke="#000000" stroke-width="3"/>
+<rect x="426" y="270" width="136" height="28.0" fill="white" stroke="#000000" stroke-width="1.5"/>
+<text x="494.0" y="288.0" font-size="12" fill="#000000" text-anchor="middle">cross rail</text>
+<line x1="426" y1="314.0" x2="562" y2="314.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="494.0" y="328.0" font-size="12" fill="#000000" text-anchor="middle">17″</text>
+<line x1="426" y1="300.0" x2="426" y2="318.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="562" y1="300.0" x2="562" y2="318.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="562" y1="267" x2="562" y2="301.0" stroke="#000000" stroke-width="3"/>
+<rect x="562" y="270" width="112" height="28.0" fill="white" stroke="#000000" stroke-width="1.5"/>
+<text x="618.0" y="288.0" font-size="12" fill="#000000" text-anchor="middle">stretcher</text>
+<line x1="562" y1="314.0" x2="674" y2="314.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="618.0" y="328.0" font-size="12" fill="#000000" text-anchor="middle">14″</text>
+<line x1="562" y1="300.0" x2="562" y2="318.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="674" y1="300.0" x2="674" y2="318.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="674" y1="267" x2="674" y2="301.0" stroke="#000000" stroke-width="3"/>
+<rect x="674" y="270" width="112" height="28.0" fill="white" stroke="#000000" stroke-width="1.5"/>
+<text x="730.0" y="288.0" font-size="12" fill="#000000" text-anchor="middle">stretcher</text>
+<line x1="674" y1="314.0" x2="786" y2="314.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="730.0" y="328.0" font-size="12" fill="#000000" text-anchor="middle">14″</text>
+<line x1="674" y1="300.0" x2="674" y2="318.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="786" y1="300.0" x2="786" y2="318.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="786" y1="267" x2="786" y2="301.0" stroke="#000000" stroke-width="3"/>
+<rect x="786" y="270" width="32" height="28.0" fill="url(#hatch)" stroke="#000000" stroke-width="1.5"/>
+<line x1="786" y1="314.0" x2="818" y2="314.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="802.0" y="328.0" font-size="12" fill="#000000" text-anchor="middle">4″</text>
+<line x1="786" y1="300.0" x2="786" y2="318.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="818" y1="300.0" x2="818" y2="318.0" stroke="#000000" stroke-width="0.8"/>
+<text x="50" y="362" font-size="13" fill="#000000" font-weight="bold">Board 3</text>
+<rect x="50" y="370" width="124.0" height="28.0" fill="white" stroke="#000000" stroke-width="1.5"/>
+<text x="112.0" y="388.0" font-size="12" fill="#000000" text-anchor="middle">leg</text>
+<line x1="50" y1="414.0" x2="174.0" y2="414.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="112.0" y="428.0" font-size="12" fill="#000000" text-anchor="middle">15.5″</text>
+<line x1="50" y1="400.0" x2="50" y2="418.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="174.0" y1="400.0" x2="174.0" y2="418.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="174.0" y1="367" x2="174.0" y2="401.0" stroke="#000000" stroke-width="3"/>
+<rect x="174.0" y="370" width="124.0" height="28.0" fill="white" stroke="#000000" stroke-width="1.5"/>
+<text x="236.0" y="388.0" font-size="12" fill="#000000" text-anchor="middle">leg</text>
+<line x1="174.0" y1="414.0" x2="298.0" y2="414.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="236.0" y="428.0" font-size="12" fill="#000000" text-anchor="middle">15.5″</text>
+<line x1="174.0" y1="400.0" x2="174.0" y2="418.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="298.0" y1="400.0" x2="298.0" y2="418.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="298.0" y1="367" x2="298.0" y2="401.0" stroke="#000000" stroke-width="3"/>
+<rect x="298.0" y="370" width="124.0" height="28.0" fill="white" stroke="#000000" stroke-width="1.5"/>
+<text x="360.0" y="388.0" font-size="12" fill="#000000" text-anchor="middle">leg</text>
+<line x1="298.0" y1="414.0" x2="422.0" y2="414.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="360.0" y="428.0" font-size="12" fill="#000000" text-anchor="middle">15.5″</text>
+<line x1="298.0" y1="400.0" x2="298.0" y2="418.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="422.0" y1="400.0" x2="422.0" y2="418.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="422.0" y1="367" x2="422.0" y2="401.0" stroke="#000000" stroke-width="3"/>
+<rect x="422.0" y="370" width="124.0" height="28.0" fill="white" stroke="#000000" stroke-width="1.5"/>
+<text x="484.0" y="388.0" font-size="12" fill="#000000" text-anchor="middle">leg</text>
+<line x1="422.0" y1="414.0" x2="546.0" y2="414.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="484.0" y="428.0" font-size="12" fill="#000000" text-anchor="middle">15.5″</text>
+<line x1="422.0" y1="400.0" x2="422.0" y2="418.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="546.0" y1="400.0" x2="546.0" y2="418.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="546.0" y1="367" x2="546.0" y2="401.0" stroke="#000000" stroke-width="3"/>
+<rect x="546.0" y="370" width="272.0" height="28.0" fill="url(#hatch)" stroke="#000000" stroke-width="1.5"/>
+<rect x="662.0" y="376.0" width="40" height="16" fill="white"/>
+<text x="682.0" y="388.0" font-size="12" fill="#000000" text-anchor="middle" font-style="italic">scrap</text>
+<line x1="546.0" y1="414.0" x2="818.0" y2="414.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="682.0" y="428.0" font-size="12" fill="#000000" text-anchor="middle">34″</text>
+<line x1="546.0" y1="400.0" x2="546.0" y2="418.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="818.0" y1="400.0" x2="818.0" y2="418.0" stroke="#000000" stroke-width="0.8"/>
+<text x="50" y="460" font-size="16" fill="#000000" font-weight="bold">Top slats</text>
+<line x1="145" y1="455" x2="818" y2="455" stroke="#000000" stroke-width="1"/>
+<text x="50" y="508" font-size="13" fill="#000000" font-weight="bold">Board 4</text>
+<rect x="50" y="516" width="336" height="28.0" fill="white" stroke="#000000" stroke-width="1.5"/>
+<text x="218.0" y="534.0" font-size="12" fill="#000000" text-anchor="middle">top slat</text>
+<line x1="50" y1="560.0" x2="386" y2="560.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="218.0" y="574.0" font-size="12" fill="#000000" text-anchor="middle">42″</text>
+<line x1="50" y1="546.0" x2="50" y2="564.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="386" y1="546.0" x2="386" y2="564.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="386" y1="513" x2="386" y2="547.0" stroke="#000000" stroke-width="3"/>
+<rect x="386" y="516" width="336" height="28.0" fill="white" stroke="#000000" stroke-width="1.5"/>
+<text x="554.0" y="534.0" font-size="12" fill="#000000" text-anchor="middle">top slat</text>
+<line x1="386" y1="560.0" x2="722" y2="560.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="554.0" y="574.0" font-size="12" fill="#000000" text-anchor="middle">42″</text>
+<line x1="386" y1="546.0" x2="386" y2="564.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="722" y1="546.0" x2="722" y2="564.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="722" y1="513" x2="722" y2="547.0" stroke="#000000" stroke-width="3"/>
+<rect x="722" y="516" width="96" height="28.0" fill="url(#hatch)" stroke="#000000" stroke-width="1.5"/>
+<rect x="750.0" y="522.0" width="40" height="16" fill="white"/>
+<text x="770.0" y="534.0" font-size="12" fill="#000000" text-anchor="middle" font-style="italic">scrap</text>
+<line x1="722" y1="560.0" x2="818" y2="560.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="770.0" y="574.0" font-size="12" fill="#000000" text-anchor="middle">12″</text>
+<line x1="722" y1="546.0" x2="722" y2="564.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="818" y1="546.0" x2="818" y2="564.0" stroke="#000000" stroke-width="0.8"/>
+<text x="50" y="608" font-size="13" fill="#000000" font-weight="bold">Board 5</text>
+<rect x="50" y="616" width="336" height="28.0" fill="white" stroke="#000000" stroke-width="1.5"/>
+<text x="218.0" y="634.0" font-size="12" fill="#000000" text-anchor="middle">top slat</text>
+<line x1="50" y1="660.0" x2="386" y2="660.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="218.0" y="674.0" font-size="12" fill="#000000" text-anchor="middle">42″</text>
+<line x1="50" y1="646.0" x2="50" y2="664.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="386" y1="646.0" x2="386" y2="664.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="386" y1="613" x2="386" y2="647.0" stroke="#000000" stroke-width="3"/>
+<rect x="386" y="616" width="336" height="28.0" fill="white" stroke="#000000" stroke-width="1.5"/>
+<text x="554.0" y="634.0" font-size="12" fill="#000000" text-anchor="middle">top slat</text>
+<line x1="386" y1="660.0" x2="722" y2="660.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="554.0" y="674.0" font-size="12" fill="#000000" text-anchor="middle">42″</text>
+<line x1="386" y1="646.0" x2="386" y2="664.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="722" y1="646.0" x2="722" y2="664.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="722" y1="613" x2="722" y2="647.0" stroke="#000000" stroke-width="3"/>
+<rect x="722" y="616" width="96" height="28.0" fill="url(#hatch)" stroke="#000000" stroke-width="1.5"/>
+<rect x="750.0" y="622.0" width="40" height="16" fill="white"/>
+<text x="770.0" y="634.0" font-size="12" fill="#000000" text-anchor="middle" font-style="italic">scrap</text>
+<line x1="722" y1="660.0" x2="818" y2="660.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="770.0" y="674.0" font-size="12" fill="#000000" text-anchor="middle">12″</text>
+<line x1="722" y1="646.0" x2="722" y2="664.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="818" y1="646.0" x2="818" y2="664.0" stroke="#000000" stroke-width="0.8"/>
+<text x="50" y="708" font-size="13" fill="#000000" font-weight="bold">Board 6</text>
+<rect x="50" y="716" width="336" height="28.0" fill="white" stroke="#000000" stroke-width="1.5"/>
+<text x="218.0" y="734.0" font-size="12" fill="#000000" text-anchor="middle">top slat</text>
+<line x1="50" y1="760.0" x2="386" y2="760.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="218.0" y="774.0" font-size="12" fill="#000000" text-anchor="middle">42″</text>
+<line x1="50" y1="746.0" x2="50" y2="764.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="386" y1="746.0" x2="386" y2="764.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="386" y1="713" x2="386" y2="747.0" stroke="#000000" stroke-width="3"/>
+<rect x="386" y="716" width="336" height="28.0" fill="white" stroke="#000000" stroke-width="1.5"/>
+<text x="554.0" y="734.0" font-size="12" fill="#000000" text-anchor="middle">top slat</text>
+<line x1="386" y1="760.0" x2="722" y2="760.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="554.0" y="774.0" font-size="12" fill="#000000" text-anchor="middle">42″</text>
+<line x1="386" y1="746.0" x2="386" y2="764.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="722" y1="746.0" x2="722" y2="764.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="722" y1="713" x2="722" y2="747.0" stroke="#000000" stroke-width="3"/>
+<rect x="722" y="716" width="96" height="28.0" fill="url(#hatch)" stroke="#000000" stroke-width="1.5"/>
+<rect x="750.0" y="722.0" width="40" height="16" fill="white"/>
+<text x="770.0" y="734.0" font-size="12" fill="#000000" text-anchor="middle" font-style="italic">scrap</text>
+<line x1="722" y1="760.0" x2="818" y2="760.0" stroke="#000000" stroke-width="1" marker-start="url(#arrL)" marker-end="url(#arrR)"/>
+<text x="770.0" y="774.0" font-size="12" fill="#000000" text-anchor="middle">12″</text>
+<line x1="722" y1="746.0" x2="722" y2="764.0" stroke="#000000" stroke-width="0.8"/>
+<line x1="818" y1="746.0" x2="818" y2="764.0" stroke="#000000" stroke-width="0.8"/>
+</svg>
